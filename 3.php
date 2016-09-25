@@ -22,3 +22,4 @@ if ($n > $prime) {
 	$prime = $n;
 }
 echo $prime;
+?>

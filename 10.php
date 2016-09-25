@@ -22,3 +22,4 @@ function PrimeSum($last)
 	return $primes;
 }
 print array_sum((PrimeSum(2000000))); //adding up the contents of the primes array
+?>
